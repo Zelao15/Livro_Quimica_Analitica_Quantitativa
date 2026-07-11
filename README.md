@@ -122,3 +122,18 @@ Flash Cards
 
 As alterações relevantes são registradas por meio do Git, utilizando mensagens de commit claras e descritivas.
 
+## Regra Editorial nº 1
+
+Nenhum conceito científico será apresentado sem responder, explícita ou implicitamente, à seguinte pergunta:
+
+> **"Qual é a importância desse conhecimento para a atuação do farmacêutico?"**
+
+Todo conteúdo do Livro Mestre deverá estabelecer conexão com situações reais da prática profissional, evidenciando como os fundamentos da Química Analítica Quantitativa sustentam decisões relacionadas ao controle de qualidade, à pesquisa, às análises clínicas, à indústria farmacêutica, à vigilância sanitária e às demais áreas das Ciências Farmacêuticas.
+
+## Regra Editorial nº 2
+
+Todo conceito apresentado no Livro Mestre deverá responder, explícita ou implicitamente, a três perguntas fundamentais:
+
+O que é? (definição e fundamentos científicos)
+Por que isso é importante? (significado e relevância científica)
+Como esse conhecimento será utilizado na prática farmacêutica? (aplicação profissional)
