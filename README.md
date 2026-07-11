@@ -137,3 +137,7 @@ Todo conceito apresentado no Livro Mestre deverá responder, explícita ou impli
 O que é? (definição e fundamentos científicos)
 Por que isso é importante? (significado e relevância científica)
 Como esse conhecimento será utilizado na prática farmacêutica? (aplicação profissional)
+
+## Regra Editorial nº 3
+
+Toda seção principal deverá iniciar com um texto introdutório que contextualize o tema, apresente sua importância e prepare o leitor para os subtópicos que serão desenvolvidos.
